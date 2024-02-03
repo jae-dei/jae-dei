@@ -77,6 +77,10 @@ input {
   transition-duration: 1.5s;
 }
 
+.title-div {
+  overflow: auto;
+}
+
 .title {
   text-align: center;
   font-size: 30px;
@@ -91,7 +95,8 @@ input {
 
 .text {
   text-align: justify;
-  font-size: 20px;
+  font-size: 30px;
+  text-align: center;
 }
 
 .page img {
@@ -107,6 +112,8 @@ input {
   backface-visibility: hidden;
   box-sizing: border-box;
   padding: 1rem;
+  display: grid;
+  place-items: center;
 }
 
 .back-page {

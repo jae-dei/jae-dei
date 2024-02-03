@@ -4,7 +4,7 @@ const pagesData = [
         title: 'Page 1',
         pageNumber: 1,
         imagePath: 'src/images/1.jpg',
-        text: 'Page 1',
+        text: 'When I first met you, I didn\'t know what to do. I wasn\'t even sure what to give you as a gift.',
         checkboxId: 'checkbox-page1'
     },
     {
@@ -12,7 +12,7 @@ const pagesData = [
         title: 'Page 2',
         pageNumber: 2,
         imagePath: 'src/images/2.jpg',
-        text: 'Page 2',
+        text: 'So I just bought polvoron from Goldilocks :P',
         checkboxId: 'checkbox-page2'
     },
     {
@@ -20,7 +20,7 @@ const pagesData = [
         title: 'Page 3',
         pageNumber: 3,
         imagePath: 'src/images/3.jpg',
-        text: 'Page 3',
+        text: 'As time passed by, it became a habit of me to visit you in your school whenever I\'m free after my classes.',
         checkboxId: 'checkbox-page3'
     },
     {
@@ -28,7 +28,7 @@ const pagesData = [
         title: 'Page 4',
         pageNumber: 4,
         imagePath: 'src/images/4.jpg',
-        text: 'Page 4',
+        text: 'We even developed a habit to stay after school hours for our quality time at school.',
         checkboxId: 'checkbox-page4'
     },
     {
@@ -36,7 +36,7 @@ const pagesData = [
         title: 'Page 5',
         pageNumber: 5,
         imagePath: 'src/images/5.jpg',
-        text: 'Page 5',
+        text: 'jae-jae time at school hehe <3',
         checkboxId: 'checkbox-page5'
     },
     {
@@ -44,7 +44,7 @@ const pagesData = [
         title: 'Page 6',
         pageNumber: 6,
         imagePath: 'src/images/6.jpg',
-        text: 'Page 6',
+        text: 'Waaah!',
         checkboxId: 'checkbox-page6'
     },
     {
@@ -52,7 +52,7 @@ const pagesData = [
         title: 'Page 7',
         pageNumber: 7,
         imagePath: 'src/images/7.jpg',
-        text: 'Page 7',
+        text: 'I know that you know this photo very well. <br>I really love this photo of us, baby <3',
         checkboxId: 'checkbox-page7'
     },
     {
@@ -60,7 +60,7 @@ const pagesData = [
         title: 'Page 8',
         pageNumber: 8,
         imagePath: 'src/images/8.jpg',
-        text: 'Page 8',
+        text: 'I\'m so happy to know that you really love to hug and to be hugged, mahal <3',
         checkboxId: 'checkbox-page8'
     },
     {
@@ -68,7 +68,7 @@ const pagesData = [
         title: 'Page 9',
         pageNumber: 9,
         imagePath: 'src/images/9.jpg',
-        text: 'Page 9',
+        text: 'I\'m going to hug you all day long if you want!',
         checkboxId: 'checkbox-page9'
     },
     {
@@ -76,7 +76,7 @@ const pagesData = [
         title: 'Page 10',
         pageNumber: 10,
         imagePath: 'src/images/10.jpg',
-        text: 'Page 10',
+        text: 'I really love it when you put your face near mine, jae-jae <3',
         checkboxId: 'checkbox-page10'
     },
     {
@@ -84,7 +84,7 @@ const pagesData = [
         title: 'Page 11',
         pageNumber: 11,
         imagePath: 'src/images/11.jpg',
-        text: 'Page 11',
+        text: 'I think your brutal side started to show here :P',
         checkboxId: 'checkbox-page11'
     },
     {
@@ -92,7 +92,7 @@ const pagesData = [
         title: 'Page 12',
         pageNumber: 12,
         imagePath: 'src/images/12.jpg',
-        text: 'Page 12',
+        text: 'First out of town date with my baby jae-jae on my 19th birthday <3',
         checkboxId: 'checkbox-page12'
     },
     {
@@ -100,7 +100,7 @@ const pagesData = [
         title: 'Page 13',
         pageNumber: 13,
         imagePath: 'src/images/13.jpg',
-        text: 'Page 13',
+        text: 'Date, foods, and <br>jae-jae time <3',
         checkboxId: 'checkbox-page13'
     },
     {
@@ -108,7 +108,7 @@ const pagesData = [
         title: 'Page 14',
         pageNumber: 3,
         imagePath: 'src/images/14.jpg',
-        text: 'Page 14',
+        text: 'It\'s only yours, bebe :P',
         checkboxId: 'checkbox-page14'
     },
     {
@@ -116,7 +116,7 @@ const pagesData = [
         title: 'Page 15',
         pageNumber: 15,
         imagePath: 'src/images/15.jpg',
-        text: 'Page 15',
+        text: 'Sometimes, when we go out, we look for cute stuffed toys and plushies.',
         checkboxId: 'checkbox-page15'
     },
     {
@@ -124,7 +124,7 @@ const pagesData = [
         title: 'Page 16',
         pageNumber: 16,
         imagePath: 'src/images/16.jpg',
-        text: 'Page 16',
+        text: 'Look at what you\'ve found. One of our babies <3',
         checkboxId: 'checkbox-page16'
     },
     {
@@ -132,7 +132,7 @@ const pagesData = [
         title: 'Page 17',
         pageNumber: 17,
         imagePath: 'src/images/17.jpg',
-        text: 'Page 17',
+        text: 'You look really cute here, baby jae-jae <3',
         checkboxId: 'checkbox-page17'
     },
     {
@@ -140,7 +140,7 @@ const pagesData = [
         title: 'Page 18',
         pageNumber: 18,
         imagePath: 'src/images/18.jpg',
-        text: 'Page 18',
+        text: 'A picture of my baby jae-jae having a hard time choosing a Lang Leav book :P',
         checkboxId: 'checkbox-page18'
     },
     {
@@ -148,7 +148,7 @@ const pagesData = [
         title: 'Page 19',
         pageNumber: 19,
         imagePath: 'src/images/19.jpg',
-        text: 'Page 19',
+        text: 'Babe, I want you to know that I\'m always here to support you.',
         checkboxId: 'checkbox-page19'
     },
     {
@@ -156,7 +156,7 @@ const pagesData = [
         title: 'Page 20',
         pageNumber: 20,
         imagePath: 'src/images/20.jpg',
-        text: 'Page 20',
+        text: 'No matter how stressful it might be or hard it gets,',
         checkboxId: 'checkbox-page20'
     },
     {
@@ -164,7 +164,7 @@ const pagesData = [
         title: 'Page 21',
         pageNumber: 21,
         imagePath: 'src/images/21.jpg',
-        text: 'Page 21',
+        text: 'I assure you that I\'m not gonna leave your side, mahal.',
         checkboxId: 'checkbox-page21'
     },
     {
@@ -172,7 +172,7 @@ const pagesData = [
         title: 'Page 22',
         pageNumber: 22,
         imagePath: 'src/images/22.jpg',
-        text: 'Page 22',
+        text: 'I\'m always here to push you forward so that you can achieve your greatest dreams, my love.',
         checkboxId: 'checkbox-page22'
     },
     {
@@ -180,7 +180,7 @@ const pagesData = [
         title: 'Page 23',
         pageNumber: 23,
         imagePath: 'src/images/23.jpg',
-        text: 'Page 23',
+        text: 'I want to see you succeed in life,',
         checkboxId: 'checkbox-page23'
     },
     {
@@ -188,7 +188,7 @@ const pagesData = [
         title: 'Page 24',
         pageNumber: 24,
         imagePath: 'src/images/24.jpg',
-        text: 'Page 24',
+        text: 'live the comfortable life that we want,',
         checkboxId: 'checkbox-page24'
     },
     {
@@ -196,7 +196,7 @@ const pagesData = [
         title: 'Page 25',
         pageNumber: 25,
         imagePath: 'src/images/25.jpg',
-        text: 'Page 25',
+        text: 'and live the rest of my life with you, jae-jae.',
         checkboxId: 'checkbox-page25'
     },
     {
@@ -204,7 +204,7 @@ const pagesData = [
         title: 'Page 26',
         pageNumber: 26,
         imagePath: 'src/images/26.jpg',
-        text: 'Page 26',
+        text: 'I swear that I will always do my best to make you happy.',
         checkboxId: 'checkbox-page26'
     },
     {
@@ -212,7 +212,7 @@ const pagesData = [
         title: 'Page 27',
         pageNumber: 27,
         imagePath: 'src/images/27.jpg',
-        text: 'Page 27',
+        text: 'We\'re gonna celebrate every single victory together, no matter how great or small.',
         checkboxId: 'checkbox-page27'
     },
     {
@@ -220,7 +220,7 @@ const pagesData = [
         title: 'Page 28',
         pageNumber: 28,
         imagePath: 'src/images/28.jpg',
-        text: 'Page 28',
+        text: 'As long as you are happy, I\'m also happy.',
         checkboxId: 'checkbox-page28'
     },
     {
@@ -228,7 +228,7 @@ const pagesData = [
         title: 'Page 29',
         pageNumber: 29,
         imagePath: 'src/images/29.jpg',
-        text: 'Page 29',
+        text: 'I intend to look at your beautiful smile and protect it for the rest of my life, baby.',
         checkboxId: 'checkbox-page29'
     },
     {
@@ -236,7 +236,7 @@ const pagesData = [
         title: 'Page 30',
         pageNumber: 30,
         imagePath: 'src/images/30.jpg',
-        text: 'Page 30',
+        text: 'I love you so much and Happy Valentine\'s Day, baby jae-jae! <3',
         checkboxId: 'checkbox-page30'
     },
     {
@@ -244,7 +244,7 @@ const pagesData = [
         title: 'Page 31',
         pageNumber: 31,
         hasImage: false,
-        text: 'Page 31',
+        text: 'We and papa dei-dei love you so much, mama jae-jae! <3',
         checkboxId: 'checkbox-page31'
     },
 ];

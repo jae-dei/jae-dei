@@ -15,15 +15,14 @@ function createPage(data) {
     const frontPage = document.createElement('div');
     frontPage.classList.add('front-page');
     frontPage.innerHTML = `
-        <div class="title-div">
+        <!-- <div class="title-div">
             <h2 class="title">${title}</h2>
-        </div>
+        </div> -->
         <div class="text-div">
-            <p class="text">${text}</p>
+            <h2 class="text">${text}</h2>
         </div>
     `;
 
-    // Check if it's not the last page before adding the next label
     if (pageNumber < pagesData.length) {
         frontPage.innerHTML += `<label class="next" for="${checkboxId}"><i class="fas fa-chevron-right"></i></label>`;
     }
@@ -51,12 +50,10 @@ function createStyles() {
     const styles = document.createElement('style');
     let stylesContent = '';
 
-    // Z-index for pages
     for (let i = 1; i <= pagesData.length; i++) {
         stylesContent += `#page${i} { z-index: ${pagesData.length - i}; }\n`;
     }
 
-    // Checkbox styles
     for (let i = 1; i <= pagesData.length - 1; i++) {
         stylesContent += `#checkbox-page${i}:checked ~ .book #page${i} { transform: rotateY(-180deg); z-index: ${i + 1}; }\n`;
     }
