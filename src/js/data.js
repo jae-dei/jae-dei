@@ -60,7 +60,7 @@ const pagesData = [
         title: 'Page 8',
         pageNumber: 8,
         imagePath: 'src/images/8.jpg',
-        text: 'I\'m so happy to know that you really love hugs, mahal <3',
+        text: 'I was so happy when I knew that you really love hugs, mahal <3',
         checkboxId: 'checkbox-page8'
     },
     {
@@ -100,7 +100,7 @@ const pagesData = [
         title: 'Page 13',
         pageNumber: 13,
         imagePath: 'src/images/13.jpg',
-        text: 'Date, foods, and <br>jae-jae time <3',
+        text: 'We really love to eat a lot when we go out for a date, don\'t we? :P',
         checkboxId: 'checkbox-page13'
     },
     {
@@ -108,7 +108,7 @@ const pagesData = [
         title: 'Page 14',
         pageNumber: 3,
         imagePath: 'src/images/14.jpg',
-        text: 'It\'s only yours, bebe :P',
+        text: 'I\'m not gonna steal it. <br>It\'s only yours, bebe :P',
         checkboxId: 'checkbox-page14'
     },
     {
@@ -140,7 +140,7 @@ const pagesData = [
         title: 'Page 18',
         pageNumber: 18,
         imagePath: 'src/images/18.jpg',
-        text: 'We\'ve been through lots of misunderstandings, but we always make an effort to patch things up afterwards.',
+        text: 'We\'ve been through lots of misunderstandings, but in the end, we always make an effort to patch things up.',
         checkboxId: 'checkbox-page18'
     },
     {
