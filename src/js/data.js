@@ -4,7 +4,7 @@ const pagesData = [
         title: 'Page 1',
         pageNumber: 1,
         imagePath: 'src/images/1.jpg',
-        text: 'When I first met you, I didn\'t know what to do. I wasn\'t even sure what to give you as a gift.',
+        text: 'When I first met you, I didn\'t know what to do.  I even had no idea what to get you for a gift.',
         checkboxId: 'checkbox-page1'
     },
     {
@@ -60,7 +60,7 @@ const pagesData = [
         title: 'Page 8',
         pageNumber: 8,
         imagePath: 'src/images/8.jpg',
-        text: 'I\'m so happy to know that you really love to hug and to be hugged, mahal <3',
+        text: 'I\'m so happy to know that you really love hugs, mahal <3',
         checkboxId: 'checkbox-page8'
     },
     {
@@ -68,7 +68,7 @@ const pagesData = [
         title: 'Page 9',
         pageNumber: 9,
         imagePath: 'src/images/9.jpg',
-        text: 'I\'m going to hug you all day long if you want!',
+        text: 'I\'m going to hug you all day long if you want! <3',
         checkboxId: 'checkbox-page9'
     },
     {
@@ -116,7 +116,7 @@ const pagesData = [
         title: 'Page 15',
         pageNumber: 15,
         imagePath: 'src/images/15.jpg',
-        text: 'Sometimes, when we go out, we look for cute stuffed toys and plushies.',
+        text: 'Sometimes, when we go out for a date, we look for cute stuffed toys and plushies.',
         checkboxId: 'checkbox-page15'
     },
     {
@@ -124,7 +124,7 @@ const pagesData = [
         title: 'Page 16',
         pageNumber: 16,
         imagePath: 'src/images/16.jpg',
-        text: 'Look at what you\'ve found. One of our babies <3',
+        text: 'Look at what you\'ve found, jae-jae. <br>One of our babies <3',
         checkboxId: 'checkbox-page16'
     },
     {
@@ -132,7 +132,7 @@ const pagesData = [
         title: 'Page 17',
         pageNumber: 17,
         imagePath: 'src/images/17.jpg',
-        text: 'You look really cute here, baby jae-jae <3',
+        text: 'I know that we\'ve been through a lot of little fights, mahal.',
         checkboxId: 'checkbox-page17'
     },
     {
@@ -140,7 +140,7 @@ const pagesData = [
         title: 'Page 18',
         pageNumber: 18,
         imagePath: 'src/images/18.jpg',
-        text: 'A picture of my baby jae-jae having a hard time choosing a Lang Leav book :P',
+        text: 'We\'ve been through lots of misunderstandings, but we always make an effort to patch things up afterwards.',
         checkboxId: 'checkbox-page18'
     },
     {
@@ -156,7 +156,7 @@ const pagesData = [
         title: 'Page 20',
         pageNumber: 20,
         imagePath: 'src/images/20.jpg',
-        text: 'No matter how stressful it might be or hard it gets,',
+        text: 'No matter how stressful it is or hard it gets,',
         checkboxId: 'checkbox-page20'
     },
     {
@@ -188,7 +188,7 @@ const pagesData = [
         title: 'Page 24',
         pageNumber: 24,
         imagePath: 'src/images/24.jpg',
-        text: 'live the comfortable life that we want,',
+        text: 'enjoy the comfortable life that we desire,',
         checkboxId: 'checkbox-page24'
     },
     {
@@ -196,7 +196,7 @@ const pagesData = [
         title: 'Page 25',
         pageNumber: 25,
         imagePath: 'src/images/25.jpg',
-        text: 'and live the rest of my life with you, jae-jae.',
+        text: 'and spend the rest of my life with you, baby jae-jae.',
         checkboxId: 'checkbox-page25'
     },
     {
